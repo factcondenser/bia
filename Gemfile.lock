@@ -234,6 +234,8 @@ GEM
       childprocess (>= 0.5, < 5.0)
       rexml (~> 3.2, >= 3.2.5)
       rubyzip (>= 1.2.2)
+    shoulda-matchers (5.1.0)
+      activesupport (>= 5.2.0)
     solargraph (0.44.3)
       backport (~> 1.2)
       benchmark
@@ -307,6 +309,7 @@ DEPENDENCIES
   rubocop-rails
   rubocop-rspec
   selenium-webdriver
+  shoulda-matchers
   solargraph
   sprockets-rails
   stimulus-rails
