@@ -79,8 +79,8 @@ group :development do
   # Custom gems
   #############
 
-  # gem "rubocop-rails"
-  # gem "rubocop-rspec"
+  gem "rubocop-rails"
+  gem "rubocop-rspec"
   gem "solargraph"
 end
 
