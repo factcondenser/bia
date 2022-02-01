@@ -59,7 +59,7 @@ group :development, :test do
   # Custom gems
   #############
 
-  # gem "factory_bot_rails"
+  gem "factory_bot_rails"
   # gem "faker"
   gem "rspec-rails"
   # gem "shoulda-matchers"
