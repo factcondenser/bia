@@ -120,6 +120,9 @@ GEM
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
+    kredis (1.0.1)
+      activesupport (>= 6.0.0)
+      redis (~> 4.2)
     loofah (2.13.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
@@ -303,6 +306,7 @@ DEPENDENCIES
   faker
   importmap-rails
   jbuilder
+  kredis
   pg (~> 1.1)
   puma (~> 5.0)
   rails (~> 7.0.1)
