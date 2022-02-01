@@ -81,8 +81,7 @@ group :development do
 
   # gem "rubocop-rails"
   # gem "rubocop-rspec"
-  # gem "solargraph"
-  # gem "yard"
+  gem "solargraph"
 end
 
 group :test do
