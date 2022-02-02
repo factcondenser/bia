@@ -103,6 +103,8 @@ GEM
       i18n (>= 1.6, < 2)
     globalid (1.0.0)
       activesupport (>= 5.0)
+    heroicon (0.4.0)
+      rails (>= 5.2)
     i18n (1.9.1)
       concurrent-ruby (~> 1.0)
     importmap-rails (1.0.2)
@@ -304,6 +306,7 @@ DEPENDENCIES
   debug
   factory_bot_rails
   faker
+  heroicon
   importmap-rails
   jbuilder
   kredis
